@@ -42,7 +42,7 @@ Display all the Transformed images and end the program.
 ### Program:
 
 ```
-Developed By:RAMA E K LAKSHMI LEKSHMI
+Developed By:RAMA E K LEKSHMI
 Register Number:212222240082
 ```
 **i)Image Translation**
